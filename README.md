@@ -1,6 +1,6 @@
 # react-note-keeper
 
-Note Keeper 
+##Note Keeper 
 
 ```
 - React
